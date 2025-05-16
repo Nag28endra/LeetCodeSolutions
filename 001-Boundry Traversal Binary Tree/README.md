@@ -12,5 +12,7 @@ Examples:
 
 Input: root[] = [1, 2, 3, 4, 5, 6, 7, N, N, 8, 9, N, N, N, N]
 Output: [1, 2, 4, 8, 9, 6, 7, 3]
+
+
 Explanation:
 ![image](https://github.com/user-attachments/assets/a141cc51-03e2-459f-a43e-63c5c673e1b2)
